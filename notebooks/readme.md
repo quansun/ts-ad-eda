@@ -1,19 +1,15 @@
-`anomaly-detection-eda.ipynb`
-
-This notebook covers the following experiments:
+Notebook `anomaly-detection-eda.ipynb` covers the following experiments:
 
 - Dataset and basic time sereis plots
 - IsolationForest based detection
-- Prophet fit
+- Simple Prophet fit
 - Forecasting based detection with ARIMA (autoregressive integrated moving average) and IQR (interquartile range detection)
 
 
 
-`lof-lof-ensemble-with-feedback.ipynb`
+Notebook `lof-lof-ensemble-with-feedback.ipynb` covers:
 
-This notebook covers:
-
-- LOF detection
+- LOF (LocalOutlierFactor) detection
 - LOF ensemble
 - Simulate with feedback input
 - Simple hybrid detection
