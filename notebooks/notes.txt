@@ -1,1 +1,10 @@
-TODO:
+# other libraries worth testing: 
+
+# darts https://unit8co.github.io/darts/
+# https://github.com/georgian-io/pyoats?tab=readme-ov-file
+
+# Some research papers
+
+# https://hpi.de/fileadmin/user_upload/fachgebiete/naumann/publications/PDFs/2022_schmidl_anomaly.pdf
+# https://dl.acm.org/doi/10.14778/3538598.3538602
+# https://dl.acm.org/doi/10.1145/3444690
