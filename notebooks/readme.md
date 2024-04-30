@@ -1,4 +1,4 @@
-#### anomaly-detection-eda.ipynb
+`anomaly-detection-eda.ipynb`
 
 This notebook covers the following experiments:
 
@@ -9,7 +9,7 @@ This notebook covers the following experiments:
 
 
 
-#### lof-lof-ensemble-with-feedback.ipynb
+`lof-lof-ensemble-with-feedback.ipynb`
 
 This notebook covers:
 
