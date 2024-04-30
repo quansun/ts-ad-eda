@@ -1,1 +1,1 @@
-# ts-ad-eda
+Please see `notebooks`
